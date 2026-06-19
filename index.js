@@ -1,5 +1,5 @@
 
-consle.log('index.js loaded');
+console.log('index.js loaded');
 require('./app');
 
 // const express = require('express');
